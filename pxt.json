@@ -1,5 +1,5 @@
 {
-    "name": "microbit-button-a-b-click",
+    "name": "microbit-button-a-b-click-forever",
     "description": "",
     "dependencies": {
         "core": "*",
